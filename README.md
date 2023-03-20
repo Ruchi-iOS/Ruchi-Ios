@@ -1,7 +1,7 @@
 ### I am Ruchita Patoliya 👋
 
 # 💫 About Me:
-🔭 I’m currently working on software Development using React-Native and iOS language.
+🔭 I’m currently working on software Development using React-Native and iOS language.<br>
 📫 How to reach me: Email: ruchitapatoliya1@gmail.com
 
 
